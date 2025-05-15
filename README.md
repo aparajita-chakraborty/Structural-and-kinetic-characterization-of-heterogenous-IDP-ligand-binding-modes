@@ -16,4 +16,3 @@ Contains notebooks for computing intermolecular interactions within each identif
 
 Usage:
 Start with the notebooks in the Feature_extraction folder to generate feature data from MD trajectories. Then proceed with one of the dimensionality reduction notebooks to generate clusters. Finally, use the analysis notebooks in the intermolecular_analysis_of_clusters directory to explore cluster-specific interactions.
-
