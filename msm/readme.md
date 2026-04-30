@@ -64,16 +64,3 @@ with
 - **Biochemical interpretation (intermolecular interactions)**  
 
 enabling identification and characterization of **metastable binding states** and their associated interaction patterns.
-
----
-
-## 🧩 Relationship to PCA Analysis
-
-While PCA captures **structural variability**, MSM/PCCA focuses on **kinetic stability**.
-
-Together, these approaches provide:
-- Structural clustering (PCA)  
-- Kinetic metastability (MSM/PCCA)  
-- Interaction-level interpretation (cluster/macrostates)  
-
-forming a unified framework for understanding ligand-dependent binding mechanisms.
