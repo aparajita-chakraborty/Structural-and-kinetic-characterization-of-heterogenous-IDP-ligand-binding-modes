@@ -4,7 +4,7 @@ This folder contains the workflow for constructing **Markov State Models (MSMs)*
 
 ---
 
-## 📁 Contents
+## Contents
 
 ### 1. MSM Construction and PCCA Analysis
 - `MSM_PCCA_combined_features_both_ligands.ipynb`
@@ -36,7 +36,7 @@ These notebooks:
 
 ---
 
-## 🧠 Workflow Summary
+## Workflow Summary
 
 1. Perform kinetic dimensionality reduction and MSM construction  
 2. Validate MSM using implied timescales and CK tests  
@@ -47,7 +47,7 @@ These notebooks:
 
 ---
 
-## 🔁 Workflow Diagram
+## Workflow Diagram
 
 TICA → MSM → PCCA → Metastable States (dtraj)
 ↓
@@ -56,7 +56,7 @@ Macrostate Interaction Analysis (per ligand)
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This workflow links:
 - **Kinetic modeling (MSM/PCCA)**  
