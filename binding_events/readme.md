@@ -4,7 +4,7 @@ This folder contains the workflow for identifying **binding events directly from
 
 ---
 
-## 📁 Contents
+## Contents
 
 ### 1. Residence Time Analysis (Per Residue)
 
@@ -46,7 +46,7 @@ This notebook:
 
 ---
 
-## 🧠 Workflow Summary
+## Workflow Summary
 
 1. Identify binding/unbinding events from trajectory data  
 2. Extract continuous binding segments  
@@ -57,7 +57,7 @@ This notebook:
 
 ---
 
-## 🔁 Workflow Diagram
+## Workflow Diagram
 
 Binding Detection → Binding Events → Residence Time
 ↓
@@ -70,7 +70,7 @@ Comparative Visualization (both ligands)
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This workflow provides a **direct kinetic perspective** on ligand binding by:
 
@@ -80,7 +80,7 @@ This workflow provides a **direct kinetic perspective** on ligand binding by:
 
 ---
 
-## ⭐ Key Insight
+## Key Insight
 
 Long-lived binding events identified here can be directly related to:
 - **Metastable states from MSM/PCCA analysis**  
