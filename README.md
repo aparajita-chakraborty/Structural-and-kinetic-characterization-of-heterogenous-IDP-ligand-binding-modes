@@ -11,7 +11,7 @@ to provide a unified understanding of ligand-dependent binding mechanisms.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ### 1. Feature Extraction
 **`feature_extraction/`**
@@ -57,7 +57,7 @@ to provide a unified understanding of ligand-dependent binding mechanisms.
 
 ---
 
-## 🧠 Conceptual Workflow
+## Conceptual Workflow
 
 Feature Extraction → Intermolecular Interaction Features → PCA → Structural Clusters
 ↓
@@ -70,7 +70,7 @@ Interaction Interpretation & Comparison
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This project aims to:
 
@@ -84,7 +84,7 @@ This project aims to:
 
 ---
 
-## 🧩 Project Design
+## Project Design
 
 Each folder contains:
 - Well-documented notebooks  
@@ -97,21 +97,21 @@ This modular structure allows:
 
 ---
 
-## 📄 Associated Work
+## Associated Work
 
-📌 *[link to your paper here]*
+ *[link to your paper here]*
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions, collaborations, or discussion:
 
-📧 *[email here]*
+ *[email here]*
 
 ---
 
-## 🌱 Notes
+## Notes
 
 - All analyses are based on intermolecular interaction features derived from molecular dynamics simulations  
 - The workflows are designed to be modular and reusable  
