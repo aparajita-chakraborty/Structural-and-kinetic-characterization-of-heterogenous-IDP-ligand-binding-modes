@@ -4,7 +4,7 @@ This folder contains the workflow for performing **Principal Component Analysis 
 
 ---
 
-## 📁 Contents
+## Contents
 
 ### 1. PCA and Clustering
 - `PCA_combined_features_both_ligands.ipynb`
@@ -40,7 +40,7 @@ The saved interaction feature files are:
 
 ---
 
-## 🧠 Workflow Summary
+## Workflow Summary
 
 1. Perform PCA and clustering  
 2. Generate cluster assignments (`dtraj`)  
@@ -50,7 +50,7 @@ The saved interaction feature files are:
 
 ---
 
-## 🔁 Workflow Diagram
+## Workflow Diagram
 
 PCA → Clusters → dtraj
 ↓
@@ -61,7 +61,7 @@ Comparative Visualization
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This workflow links:
 - **Structural clustering (PCA)**  
